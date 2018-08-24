@@ -1,2 +1,2 @@
 # SQL
-Herramientas para DBAs
+Recopilacion de Scripts para DBAs
